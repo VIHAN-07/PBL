@@ -223,10 +223,7 @@ filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#42047e", en
             st.markdown("""
             <div class="context-example">
             <strong>Context Reference:</strong>
-            You are Aditya, a business development executive at AdityaTechLabs. AdityaTechLabs is an AI & Software Consulting company dedicated to facilitating
-            the seamless integration of business processes through automated tools. 
-            Over our experience, we have empowered numerous enterprises with tailored solutions, fostering scalability, 
-            process optimization, cost reduction, and heightened overall efficiency. 
+            "I am the Head Coach of my cricket coaching academy, where we focus on nurturing players' skills through structured and personalized training programs. Our goal is to enhance their technique, tactical awareness, and mental resilience, preparing them to excel both on the field and in life."
             Your job is to write a cold email to the client regarding the job mentioned above describing the capability of AdityaTechLabs 
             in fulfilling their needs.
             </div>
